@@ -1,0 +1,25 @@
+apt update 
+
+apt upgrade
+
+ pkg install python2
+
+ pkg install git 
+
+ git clone https://github.com/fatonicyber/pakistan1
+
+ cd pakistan1
+
+ pip2 install mechanize
+
+ pip2 install requests
+
+ 
+
+ chmod +x *
+
+ python2 pakistan1.py 
+
+FATONICYBER
+
+MR.BLACK0304
